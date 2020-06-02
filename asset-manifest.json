@@ -1,23 +1,35 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio/static/js/main.421b2783.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.421b2783.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8fe489c4.chunk.css",
+    "main.js": "/portfolio/static/js/main.f799543b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f799543b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.fb1b3dac.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.fb1b3dac.js.map",
-    "static/js/2.18e4ac39.chunk.js": "/portfolio/static/js/2.18e4ac39.chunk.js",
-    "static/js/2.18e4ac39.chunk.js.map": "/portfolio/static/js/2.18e4ac39.chunk.js.map",
+    "static/js/2.80f8f7fb.chunk.js": "/portfolio/static/js/2.80f8f7fb.chunk.js",
+    "static/js/2.80f8f7fb.chunk.js.map": "/portfolio/static/js/2.80f8f7fb.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.f3510362e191ecd3d643be30a136fe8b.js": "/portfolio/precache-manifest.f3510362e191ecd3d643be30a136fe8b.js",
+    "precache-manifest.2ad403589cc6740a1d169ef117ce1354.js": "/portfolio/precache-manifest.2ad403589cc6740a1d169ef117ce1354.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.18e4ac39.chunk.js.LICENSE.txt": "/portfolio/static/js/2.18e4ac39.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/main.8fe489c4.chunk.css.map": "/portfolio/static/css/main.8fe489c4.chunk.css.map",
+    "static/js/2.80f8f7fb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.80f8f7fb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/chaincodeconsultinglogo.png": "/portfolio/static/media/chaincodeconsultinglogo.af496585.png",
+    "static/media/codecheflogo.jpg": "/portfolio/static/media/codecheflogo.cafd0bcd.jpg",
+    "static/media/contactMail.png": "/portfolio/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/iitroparlogo.png": "/portfolio/static/media/iitroparlogo.d3542aea.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.25bf045c.svg",
+    "static/media/pecchandigarhlogo.png": "/portfolio/static/media/pecchandigarhlogo.f65d1887.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.19721cb2.jpg",
+    "static/media/sensorapilogo.jpg": "/portfolio/static/media/sensorapilogo.bf314b90.jpg",
+    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
+    "static/media/swappylogo.jpg": "/portfolio/static/media/swappylogo.0861cedf.jpg",
+    "static/media/TalkCard.css": "/portfolio/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fb1b3dac.js",
-    "static/js/2.18e4ac39.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.421b2783.chunk.js"
+    "static/js/2.80f8f7fb.chunk.js",
+    "static/css/main.8fe489c4.chunk.css",
+    "static/js/main.f799543b.chunk.js"
   ]
 }
